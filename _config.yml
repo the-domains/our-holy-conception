@@ -1,0 +1,28 @@
+name: Our Holy Conception
+favicon: null
+layout_spectrum: 0.5618189654778689
+typography_spectrum: 0.7692458918318152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5757954097352922
+  lightness: 0.7126461889129132
+  saturation: 0.8994039816316217
+  rhythmicContrast: 0.35648531187325716
+purpose: []
