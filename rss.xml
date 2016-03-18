@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Our Holy Conception]]></title>
-        <description><![CDATA[Our Holy Conception]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Marriage as your path to holiness]]></title>
+        <description><![CDATA[Marriage as your path to holiness]]></description>
+        <link>https://thegrid.ai/our-holy-conception/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 11:31:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 11:47:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/our-holy-conception/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humble Chastisement]]></title>
+            <description><![CDATA[<article><h1>Humble Chastisement</h1><p>Pope snaps at pushy crowd in Mexico</p></article>]]></description>
+            <link>https://thegrid.ai/our-holy-conception/pope-snaps-at-pushy-crowd-in-mexico/index.html</link>
+            <guid isPermaLink="false">05b423a9-4868-48bd-ab42-6eaf1767d243</guid>
+            <pubDate>Fri, 18 Mar 2016 11:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Man, One Woman]]></title>
             <description><![CDATA[<article><h1>One Man, One Woman</h1><p>Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren’t aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!</p></article>]]></description>
-            <link>undefinedtrue-marriage-is-worth-fighting-for/index.html</link>
+            <link>https://thegrid.ai/our-holy-conception/true-marriage-is-worth-fighting-for/index.html</link>
             <guid isPermaLink="false">88a39834-8377-4460-8a4c-6714ce6d5773</guid>
             <pubDate>Fri, 18 Mar 2016 11:31:16 GMT</pubDate>
         </item>
