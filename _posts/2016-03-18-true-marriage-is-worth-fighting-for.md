@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren’t aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!'
-datePublished: '2016-03-18T11:31:16.285Z'
-dateModified: '2016-03-18T11:30:40.341Z'
+datePublished: '2016-03-18T20:25:52.743Z'
+dateModified: '2016-03-18T20:25:44.935Z'
 title: True Marriage is worth fighting for
 author: []
+sourcePath: _posts/2016-03-18-true-marriage-is-worth-fighting-for.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-true-marriage-is-worth-fighting-for.md
-published: true
 url: true-marriage-is-worth-fighting-for/index.html
 _type: Article
 
