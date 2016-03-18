@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Humble simplicity is the gateway to God’s infinite, profound, beautiful Truth. This truth, as all truth, holds fast across all disciplines, endeavors, and creation.'
-datePublished: '2016-03-18T11:55:49.497Z'
-dateModified: '2016-03-18T11:55:33.101Z'
+datePublished: '2016-03-18T22:35:42.556Z'
+dateModified: '2016-03-18T19:12:30.995Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-humble-simplicity-is-the-gateway-to-gods-infinite-profound.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-humble-simplicity-is-the-gateway-to-gods-infinite-profound.md
-published: true
 url: humble-simplicity-is-the-gateway-to-gods-infinite-profound/index.html
 _type: Article
 
@@ -79,11 +79,11 @@ If there's lead showing, a pencil will write. A pencil is unaffected by wet or c
 
 So far I've recommended every pencil out there, including the gutter stubs outside the elementary school, save pencils at the local mini-golf (fingernails on chalkboard is a better experience). Yet I'm celebrating a pencil that not only isn't free (as is the gutter stub), nor even 20 or 40 cents, but a whopping 180 cents. What gives? Wasn't value part of the "simple" proposition? Yes. Indeed. Please, bear with me.
 
-Could the 602 be more humble yet greater for it? Absolutely. A buck eighty a stick is pretentious. A glossy finish on the wood and shiny, fancy furl and eraser are all unnecessary distractions (never use the eraser --- destroys the flow of thought. Cross out and move on.). Do not let poor choice in outward accoutrement deter or detract from the elegant simplicity of the essence awaiting beneath --- a pencil's pencil. The 602 is:
+Could the 602 be more humble yet greater for it? Absolutely. A buck eighty a stick is pretentious. A glossy finish on the wood and shiny, fancy ferrule and eraser are all unnecessary distractions (never use the eraser --- destroys the flow of thought. Cross out and move on.). Do not let poor choice in outward accoutrement deter or detract from the elegant simplicity of the essence awaiting beneath --- a pencil's pencil. The 602 is:
 
 * So smooth it writes like a gel pen (in the off moment when a gel pen works).
 * Hard enough to hold a tip for a page (with proper rotation), soft enough to be clear and dark. Writers take note, there may be room for a firmer writer's pencil (their \#24 special edition is just such a beastie --- hopefully one that leads to a better writer's pencil).
-* Invisible to use, once the beautiful and distracting furl and eraser are summarily decapitated.
+* Invisible to use, once the beautiful and distracting ferrule and eraser are summarily decapitated.
 
 I keep a dozen sharpened, ready to go, but find I prefer the gathering of thought encouraged by using a single pencil and sharpening it along the way, 1/32nd" at a time.
 
