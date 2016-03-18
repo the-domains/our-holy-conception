@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Our Holy Conception]]></title>
+        <description><![CDATA[Our Holy Conception]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 11:31:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One Man, One Woman]]></title>
+            <description><![CDATA[<article><h1>One Man, One Woman</h1><p>Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren’t aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!</p></article>]]></description>
+            <link>undefinedtrue-marriage-is-worth-fighting-for/index.html</link>
+            <guid isPermaLink="false">88a39834-8377-4460-8a4c-6714ce6d5773</guid>
+            <pubDate>Fri, 18 Mar 2016 11:31:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
