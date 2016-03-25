@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forget TV. Even forget kids’ picture books. To really spark your kids’ imaginations and creativity read real stories. Stories where they need to listen, pay attention, develop an attention span, form pictures in their mind from the words they hear.'
-datePublished: '2016-03-18T22:35:49.676Z'
-dateModified: '2016-03-18T12:57:36.844Z'
+datePublished: '2016-03-25T15:02:44.072Z'
+dateModified: '2016-03-25T15:02:24.547Z'
 title: 'Spark Imagination: Read Real Stories'
 author: []
 sourcePath: _posts/2016-03-18-spark-imagination-read-real-stories.md
@@ -22,10 +22,8 @@ url: spark-imagination-read-real-stories/index.html
 _type: Article
 
 ---
-# Spark Imagination: Read Real Stories
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6834f7-1f6a-4654-848b-95d20a65bb2a.jpg)
-
 Forget TV. Even forget kids' picture books. To really spark your kids' imaginations and creativity read real stories. Stories where they need to listen, pay attention, develop an attention span, form pictures in their mind from the words they hear.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6834f7-1f6a-4654-848b-95d20a65bb2a.jpg)
 
 Seriously. This Advent, consider focusing all story time on reading books with minimal pictures. The difference in your kids will amaze you.
 
