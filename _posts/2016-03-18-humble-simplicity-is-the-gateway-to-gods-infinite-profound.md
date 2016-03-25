@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Humble simplicity is the gateway to God’s infinite, profound, beautiful Truth. This truth, as all truth, holds fast across all disciplines, endeavors, and creation.'
-datePublished: '2016-03-25T15:03:35.253Z'
-dateModified: '2016-03-25T15:03:19.414Z'
+datePublished: '2016-03-25T19:17:55.354Z'
+dateModified: '2016-03-25T19:17:29.294Z'
 title: How to Think Freely
 author: []
 sourcePath: _posts/2016-03-18-humble-simplicity-is-the-gateway-to-gods-infinite-profound.md
@@ -22,18 +22,16 @@ url: humble-simplicity-is-the-gateway-to-gods-infinite-profound/index.html
 _type: Article
 
 ---
-### How to Think Freely
+Humble simplicity is the gateway to God's infinite, profound, beautiful Truth. This truth, as all truth, holds fast across all disciplines, endeavors, and creation.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d93a8d8-d752-411d-8b6a-ef8b2c6d1ab8.jpg)
 
-Humble simplicity is the gateway to God's infinite, profound, beautiful Truth. This truth, as all truth, holds fast across all disciplines, endeavors, and creation.
-
-#### Wolves: Simplicity in Science
+## Wolves: Simplicity in Science
 
 Take Farley Mowat and his study of wolves which (eventually) revolutionized our understanding of wolves, hunting, people, the critical role of natural predators, and eco system interconnectivity. Once circumstance encouraged his abandonment of the arrogant and certain "knowledge" that wolves were blood lusting, savage, wanton killers, Farley "went to the wolves," living like them in every way he could figure out: claiming territory, hunting their prey, eating their prey, and other scientific hilarities, his humble simplicity opened the ability to see the truth --- wolves as a stunningly cooperative, familial group that are an integral part of God's engineering.
 
 The book is well worth reading and will leave you gasping for air, stitches in your sides, with tears down your cheeks. Required reading in our home.
 
-#### God's Engineering?
+## God's Engineering?
 
 God's engineering. The simple idea that God made the world and it thus contains spectacular design, intelligent design, to apply properly a term that has come to mean precisely the opposite, given creation itself readily shows the world is older than Adam and Eve by more than a few days. God's creation is intelligent. This bears repeating. God's creation is intelligent.
 
@@ -43,7 +41,7 @@ Why so much theology in a post about clarity of thought and (eventually) invisib
 
 Specifically, I discovered that going barefoot frees my feet and body to function as God intended. My feet strengthened, connected with my brain and muscles throughout my body, and now my body knows where I am in space though my brain hasn't a clue. That single act of removing my shoes led to amazing discoveries and improvement in my and my family's quality of life.
 
-#### I've long sought to free and strengthen my thinking.
+## I've long sought to free and strengthen my thinking.
 
 Things I've discovered (some of which may be universally true for all of us, but that's beyond my scope):
 
@@ -57,19 +55,19 @@ That's a lot of lead in to discuss a desk, two notebooks, and a pencil as tools 
 
 Attributes common to them all: they meet the needs I just described above. They are of such quality they disappear in use, becoming an invisible part of the flow of thought. This means they have exactly what is necessary for the job and little to none of what isn't.
 
-#### [Ergo Desk][0]
+## [Ergo Desk][0]
 
 Writing pencil (or pen) to paper is greatly promoted by writing on a slope. Earliest monk scribes knew this and all desks were sloped. No more. Flat. Ergo Desk's offerings acknowledge this modern reality and change it by adding a sloped desk atop your flat one. Easy, simple, economical. Quality craftsmanship, sturdy, hearty, solid, and words great with even a thin Apple Magic keyboard and trackpad, when I am using them (as now to type this in from my notebook). My iMac sits behind my desk so I can easily place my notebook on the upper reference desk and type my pencil scratches into electrons without a crick in my neck.
 
-#### [Northbooks Notebook][1]
+## [Northbooks Notebook][1]
 
 Ruled, soft cover. Unlike sloping writing desks, there are a plethora of notebooks for thinking, writing and sketching. Everyone will have their preference and doubtless many will dain disagree with mine, but this is why I love this relative newcomer to the notebook party. Essence of quality, affordability, and simplicity. Rules lines on a page of excellent weight and feel, bound within hearty kraft cover with glued bindery craftsmanship to lay mostly flat (unheard of in less expensive glued bindings). Their hard cover is delicious too, but slides easily on my tilt desk, drawing undue attention to itself. 5"x8" size is large enough to hold significant thoughts without always shifting to the next line, but also small enough to fit within one writing position so I needn't adjust my paper constantly or lean sideways. It is also a width the eye comfortably reads. Value comes with the wise choice to not perfectly align lines or grids or dots (and thus waste paper and increase labor and costs). They are "good enough" to not attract attention while not increasing the cost significantly. I appreciate that. Simple shouldn't be pricy, but, as we'll see, it sometimes seems to be. I use ruled lines because blank aren't structured enough and dot or grid are too structured.
 
-#### [FieldNotes Notebook][2]
+## [FieldNotes Notebook][2]
 
 Too small to write in as my main notebook, the 3"x5" is perfect for side notes, insert earlier or later notes, or include this notes. Keyboard and trackpad on my desk but I need to write something down? No need to move keyboard and trackpad for my large notebook (which is too large for wee notes anyway.) Tucked away beneath my sloping desk when not needed. Beautiful.
 
-#### [Palomino Blackwing 602 Pencil][3]
+## [Blackwing 602 Pencil][3]
 
 My latest discovery and, though only days in, an evident and surprising lynch pin tool to my flow of thought.
 
@@ -87,7 +85,7 @@ Could the 602 be more humble yet greater for it? Absolutely. A buck eighty a sti
 
 I keep a dozen sharpened, ready to go, but find I prefer the gathering of thought encouraged by using a single pencil and sharpening it along the way, 1/32nd" at a time.
 
-#### Danger!
+Danger!
 
 Accessing God's engineering often takes at least three months adjustment as the body shifts and strengthens for proper function. This is true of going barefoot, living with wolves, and taking up writing with a pencil.
 
