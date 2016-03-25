@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forget TV. Even forget kids’ picture books. To really spark your kids’ imaginations and creativity read real stories. Stories where they need to listen, pay attention, develop an attention span, form pictures in their mind from the words they hear.'
-datePublished: '2016-03-25T15:02:44.072Z'
-dateModified: '2016-03-25T15:02:24.547Z'
+datePublished: '2016-03-25T19:09:31.825Z'
+dateModified: '2016-03-25T15:02:48.617Z'
 title: 'Spark Imagination: Read Real Stories'
 author: []
 sourcePath: _posts/2016-03-18-spark-imagination-read-real-stories.md
