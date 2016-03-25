@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Of course big government can be an agent of mercy. God can use evil for good. This is a strong lesson from Genesis 50, where God uses the evil of Joseph’s brothers selling him into slavery to save his people from famine. God is perfectly capable of working through faithful people who happen to work in big government. But is government the solution to our pain? Of course not.'
-datePublished: '2016-03-18T11:48:20.760Z'
-dateModified: '2016-03-18T11:48:20.418Z'
-title: ''
+datePublished: '2016-03-25T19:59:52.713Z'
+dateModified: '2016-03-25T15:05:08.379Z'
+title: Can Big Government be an Agent of Mercy?
 author: []
+sourcePath: _posts/2016-03-18-of-course-big-government-can-be-an-agent-of-mercy-god-can-u.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-of-course-big-government-can-be-an-agent-of-mercy-god-can-u.md
-published: true
 url: of-course-big-government-can-be-an-agent-of-mercy-god-can-u/index.html
 _type: Article
 
 ---
-### Can Big Government be an Agent of Mercy?
-
 Of course big government can be an agent of mercy. God can use evil for good. This is a strong lesson from Genesis 50, where God uses the evil of Joseph's brothers selling him into slavery to save his people from famine. God is perfectly capable of working through faithful people who happen to work in big government. But is government the solution to our pain? Of course not.
 
 There is a striking thing happening with iPhones and the FBI right now. The FBI's iPhone Backdoor demand of Apple simultaneously illustrates government's unquenchable power grabbing gluttony and governments propensity of ineptitude. Here is [Apple's letter][0] on the subject.
