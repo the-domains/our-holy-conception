@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Humble simplicity is the gateway to God’s infinite, profound, beautiful Truth. This truth, as all truth, holds fast across all disciplines, endeavors, and creation.'
-datePublished: '2016-03-18T22:35:42.556Z'
-dateModified: '2016-03-18T19:12:30.995Z'
-title: ''
+datePublished: '2016-03-25T15:03:35.253Z'
+dateModified: '2016-03-25T15:03:19.414Z'
+title: How to Think Freely
 author: []
 sourcePath: _posts/2016-03-18-humble-simplicity-is-the-gateway-to-gods-infinite-profound.md
 published: true
