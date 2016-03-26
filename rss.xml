@@ -4,7 +4,7 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:30:47 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One Man, One Woman]]></title>
@@ -12,6 +12,13 @@
             <link>http://ourholyconception.org/true-marriage-is-worth-fighting-for/index.html</link>
             <guid isPermaLink="false">88a39834-8377-4460-8a4c-6714ce6d5773</guid>
             <pubDate>Sat, 26 Mar 2016 21:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Into Rift]]></title>
+            <description><![CDATA[<article><h1>Into Rift</h1><p>The entire back wall of Seared Wings brewpub came to life, showing the big event unfolding “above.” The camera swooped over a vast and wild landscape before majestically soaring over a ridge to reveal an expansive valley below.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08c7c304-4ac3-439a-a744-d6d0fcf701a5.jpg"></article>]]></description>
+            <link>http://ourholyconception.org/into-rift/index.html</link>
+            <guid isPermaLink="false">a9536773-e407-4c7c-962b-ccb88228f0da</guid>
+            <pubDate>Sat, 26 Mar 2016 21:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holy Saturday]]></title>
@@ -68,12 +75,6 @@
             <link>http://ourholyconception.org/surprising-gifts-of-parenthood/index.html</link>
             <guid isPermaLink="false">3e20f114-9052-417b-8be9-c8be17901e5e</guid>
             <pubDate>Fri, 25 Mar 2016 16:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://ourholyconception.org/83116b8c-9aed-4755-9a3b-e1cf01c71330/index.html</link>
-            <guid isPermaLink="false">83116b8c-9aed-4755-9a3b-e1cf01c71330</guid>
-            <pubDate>Sat, 26 Mar 2016 21:24:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
