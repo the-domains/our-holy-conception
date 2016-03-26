@@ -4,7 +4,7 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:24:23 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One Man, One Woman]]></title>
@@ -15,6 +15,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://twitter.com/DcnPatrick/status/713837960660017152</p>]]></description>
             <link>http://ourholyconception.org/df897a45-66f2-49f9-84c8-6a15e7200014/index.html</link>
             <guid isPermaLink="false">df897a45-66f2-49f9-84c8-6a15e7200014</guid>
             <pubDate>Sat, 26 Mar 2016 21:22:59 GMT</pubDate>
@@ -72,7 +73,7 @@
             <title><![CDATA[No title]]></title>
             <link>http://ourholyconception.org/83116b8c-9aed-4755-9a3b-e1cf01c71330/index.html</link>
             <guid isPermaLink="false">83116b8c-9aed-4755-9a3b-e1cf01c71330</guid>
-            <pubDate>Fri, 25 Mar 2016 12:58:52 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 21:24:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
