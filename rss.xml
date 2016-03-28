@@ -4,7 +4,7 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 22:49:28 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One Man, One Woman]]></title>
@@ -12,6 +12,13 @@
             <link>http://ourholyconception.org/true-marriage-is-worth-fighting-for/index.html</link>
             <guid isPermaLink="false">88a39834-8377-4460-8a4c-6714ce6d5773</guid>
             <pubDate>Sat, 26 Mar 2016 21:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Power of Off]]></title>
+            <description><![CDATA[<article><h1>The Power of Off</h1><p>Eliminate Clutter from your thought. Turn off the computer. Stow the phone. Instead, write with pencil and paper. Write one page a day for one week. More, if the unthinkable happens and additional thoughts pour out.</p></article>]]></description>
+            <link>http://ourholyconception.org/the-power-of-off/index.html</link>
+            <guid isPermaLink="false">b656127f-0b72-41d9-b4c8-4a5eb1b2ea24</guid>
+            <pubDate>Mon, 28 Mar 2016 22:49:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Easter Morn]]></title>
@@ -68,13 +75,6 @@
             <link>http://ourholyconception.org/the-simple-rosary/index.html</link>
             <guid isPermaLink="false">93612be7-ea19-4a86-a24a-2836db59cbec</guid>
             <pubDate>Sat, 26 Mar 2016 14:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holy Saturday]]></title>
-            <description><![CDATA[<h1>Holy Saturday</h1>]]></description>
-            <link>http://ourholyconception.org/aa0f3342-8062-4ac1-b5e0-012ca65a212e/index.html</link>
-            <guid isPermaLink="false">aa0f3342-8062-4ac1-b5e0-012ca65a212e</guid>
-            <pubDate>Sat, 26 Mar 2016 09:49:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
