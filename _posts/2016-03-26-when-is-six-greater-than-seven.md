@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: God can do more through us in six days than we can do alone in seven.
-datePublished: '2016-03-26T16:53:08.891Z'
-dateModified: '2016-03-26T16:53:06.632Z'
+datePublished: '2016-03-28T22:47:03.300Z'
+dateModified: '2016-03-28T22:46:51.313Z'
 title: When is Six Greater Than Seven?
 author: []
+sourcePath: _posts/2016-03-26-when-is-six-greater-than-seven.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-when-is-six-greater-than-seven.md
-published: true
 url: when-is-six-greater-than-seven/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a777f00f-0f4b-4ea6-9cc9-a46f71597605.jpg)
+
 ## Keep Holy the Sabbath
 
 God can do more through us in six days than we can do alone in seven.
