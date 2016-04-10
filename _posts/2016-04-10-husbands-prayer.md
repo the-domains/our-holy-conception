@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord Jesus my Christ, grant me the grace of humble obedience to you, that I may love and serve my Bride as you love and serve our Church, your Bride. Amen.'
-datePublished: '2016-04-10T21:57:56.950Z'
-dateModified: '2016-04-10T21:29:47.562Z'
+datePublished: '2016-04-10T22:04:20.635Z'
+dateModified: '2016-04-10T22:04:11.310Z'
 title: Husband’s Prayer
 author: []
 sourcePath: _posts/2016-04-10-husbands-prayer.md
@@ -29,4 +29,7 @@ Lord Jesus my Christ, grant me the grace of humble obedience to you, that I may 
 
 [Wife's Prayer][0]
 
+[Humble Obedience to God][1]
+
 [0]: http://ourholyconception.org/wifes-prayer/
+[1]: http://ourholyconception.org/fight-burden-with-humble-obedience/
