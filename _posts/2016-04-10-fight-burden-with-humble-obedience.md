@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
-datePublished: '2016-04-10T19:57:23.922Z'
-dateModified: '2016-04-10T19:57:08.718Z'
+datePublished: '2016-04-10T19:57:52.954Z'
+dateModified: '2016-04-10T19:57:29.808Z'
 title: Fight Burden with Humble Obedience
 author: []
 sourcePath: _posts/2016-04-10-fight-burden-with-humble-obedience.md
