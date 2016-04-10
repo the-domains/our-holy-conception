@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
-datePublished: '2016-04-10T19:52:53.545Z'
-dateModified: '2016-04-10T19:45:06.162Z'
+datePublished: '2016-04-10T19:57:23.922Z'
+dateModified: '2016-04-10T19:57:08.718Z'
 title: Fight Burden with Humble Obedience
 author: []
 sourcePath: _posts/2016-04-10-fight-burden-with-humble-obedience.md
@@ -53,6 +53,8 @@ Prayer. Quick. Easy. Simple. Prayer itself is an act of humble obedience. Pray a
 
 ## But I know I'm right!
 
-You may be, if your will is aligned with God's will. Saint Paul says many things boldly that may seem like arrogance, but are actually humble obedience to God. Boldly naming of sin and how to move toward Right Relationship (run toward Jesus our Christ) challenges people's inner Sinner, and gets called arrogant, but may well be humble obedience to God. But if there is any doubt, wait. humble obedience demands being sure.
+You may be, if your will is aligned with God's will. Always presume the sin is yours until actions of others prove you wrong.
+
+Saint Paul says many things boldly that may seem like arrogance, but are actually humble obedience to God. Boldly naming of sin and how to move toward Right Relationship (run toward Jesus our Christ) challenges people's inner Sinner, and gets called arrogant, but may well be humble obedience to God. But if there is any doubt, wait. humble obedience demands being sure.
 
 May God startle you with joy!
