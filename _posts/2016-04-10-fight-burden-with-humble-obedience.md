@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
-datePublished: '2016-04-10T20:31:47.849Z'
-dateModified: '2016-04-10T20:31:41.786Z'
+datePublished: '2016-04-10T21:28:08.371Z'
+dateModified: '2016-04-10T21:12:19.264Z'
 title: Fight Burden with Humble Obedience
 author: []
 sourcePath: _posts/2016-04-10-fight-burden-with-humble-obedience.md
@@ -46,6 +46,7 @@ Jesus tells us he does not burden us. Catholic algebra is simple. Where we exper
 * Anger at \_\_\_\_\_.
 * Bitterness toward \_\_\_\_\_.
 * Entitlement to \_\_\_\_\_ because \_\_\_\_\_.
+* Stress
 
 ## How do I cast off my burden?
 
