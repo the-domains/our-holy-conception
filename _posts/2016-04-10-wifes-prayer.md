@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord Jesus my Christ, grant me the grace of humble obedience to you and my Beloved, that I may love and serve my Groom as Holy Mary loves and serves as handmaid of the Lord. Amen'
-datePublished: '2016-04-10T20:31:57.041Z'
-dateModified: '2016-04-10T20:28:34.566Z'
+datePublished: '2016-04-10T21:30:21.009Z'
+dateModified: '2016-04-10T21:27:37.829Z'
 title: Wife’s Prayer
 author: []
 sourcePath: _posts/2016-04-10-wifes-prayer.md
