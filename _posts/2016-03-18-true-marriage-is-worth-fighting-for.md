@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren’t aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!'
-datePublished: '2016-04-10T23:05:03.564Z'
-dateModified: '2016-03-26T21:29:06.948Z'
+datePublished: '2016-04-10T23:19:19.782Z'
+dateModified: '2016-04-10T23:18:55.097Z'
 title: True Marriage is worth fighting for
 author: []
 sourcePath: _posts/2016-03-18-true-marriage-is-worth-fighting-for.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b4c19b9af2bef156c8e1fa5defead62500e0e4.jpg)
 
-Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren't aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!
+Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren't aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage! [Prayer for Humble obedience to God.][0]
 
 Let's take it step by step on what it means to be in a Catholic Sacramental Marriage.
 
@@ -52,9 +52,13 @@ Complementarity is the fancy word for equality with differences. Yes there are b
 
 Why until recent human history have men protected women, revered them? Why do true men still revere women and treat them with deep respect? It isn't to subjugate them. It is to celebrate and protect the mystery of women, for women are the bearers of life. Women nurture and cultivate hearth and home. No matter where they are or what they are doing, this hearth centeredness is part of them.
 
+[Wife's Prayer][1]
+
 ## Men are Providers, Protectors, and Explorers
 
 This is moulded into mens' clay, just as women being nurturing and life bearing is moulded into womens' clay. If the woman is the safe harbor of the family, the man is the ship.
+
+[Husband's Prayer][2]
 
 ## Four Simple Steps for a Struggling Marriage
 
@@ -64,3 +68,7 @@ This is moulded into mens' clay, just as women being nurturing and life bearing 
 * 4\. Read through the above post. Anything in your marriage that falls short, fix it. Dig deep.
 
 Recommend with the heart, comment with the quote below. May God startle you with love and joy even in the midst of your struggles together!
+
+[0]: http://ourholyconception.org/fight-burden-with-humble-obedience/
+[1]: http://ourholyconception.org/wifes-prayer/
+[2]: http://ourholyconception.org/husbands-prayer/
