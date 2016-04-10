@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-10T14:18:08.669Z'
-dateModified: '2016-04-10T14:15:11.735Z'
+datePublished: '2016-04-10T14:43:40.811Z'
+dateModified: '2016-04-10T14:43:20.182Z'
 title: Budding Branches
 author: []
+sourcePath: _posts/2016-04-10-budding-branches.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-budding-branches.md
-published: true
 url: budding-branches/index.html
 _type: WebPage
 
@@ -201,27 +201,5 @@ Anna and Luke looked at each other, entering into a contest to see who could nam
 "Humility conquers pride!"
 
 As the two older ones belted out the virtue chant, the younger ones joined in: jumping, dancing, and hollering. It ended and everyone tumbled into a squirming, giggling, laughing pile on the floor, Mama, Papa, and Baby Peanut swallowed into the joyous tumult of new life.
-
-In the midst of this chaos several things suddenly changed, the result of one amazing change. All light vanished, casting the entire family of Branches into darkness. The air was now stifling with hot rank scents of old barn.
-
-Papa's calm voice broke through the murmurings and gasps. "Respond when I call your name."
-
-"Yes, Papa!" came back a cadre of puzzled, scared, small voices, finding unexpected comfort in their father's voice.
-
-"Joseph."
-
-"Papa," came back the timid voice of the youngest Branch. "Where are you?"
-
-"Follow my voice, sweetheart. Let others around you help. I'm right here, and everything is going to be fine."
-
-Suddenly there came a "Roar," reverberating through their bones, echoing as though it traveled many chasms to reach them. Instantly every Branch stood, the hair on their arms, legs, and the back of their necks tingling with fear. As if their bones were not chilled enough, the ground under and around them rumbled a deep, sustained thunder and a few moments later the roar of a blood-thirsty crowd erupted out of the passageways on all sides.
-
-"Papa," asked Anna in a trembling voice.
-
-"Yes, Anna?"
-
-"Where are we?"
-
-"And when?" added Mama, her voice only slightly less concerned than Anna's.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc10a50b-93fb-43fb-a026-b55244cc1efa.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b582bab-e10f-44b8-8aeb-cc19da19666a.png)
