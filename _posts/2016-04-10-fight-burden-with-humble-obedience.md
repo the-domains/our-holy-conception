@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
-datePublished: '2016-04-10T20:12:50.631Z'
-dateModified: '2016-04-10T19:57:56.588Z'
+datePublished: '2016-04-10T20:16:27.662Z'
+dateModified: '2016-04-10T20:15:48.140Z'
 title: Fight Burden with Humble Obedience
 author: []
 sourcePath: _posts/2016-04-10-fight-burden-with-humble-obedience.md
@@ -37,7 +37,7 @@ Looking for a powerful way to discover God more deeply? Wherever there is burden
 
 Jesus tells us he does not burden us. Catholic algebra is simple. Where we experience burden is sin. Humility is the most powerful virtue and always gives us the strength to choose Jesus our Christ.
 
-> For my yoke is easy, and my burden light - Matthew 11:30\.
+> "For my yoke is easy, and my burden light - Matthew 11:30."
 > 
 > ## What does burden look like?
 > 
