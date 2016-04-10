@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord Jesus my Christ, grant me the grace of humble obedience to you and my Beloved, that I may love and serve my Groom as Holy Mary loves and serves as handmaid of the Lord. Amen'
-datePublished: '2016-04-10T21:30:21.009Z'
-dateModified: '2016-04-10T21:27:37.829Z'
+datePublished: '2016-04-10T21:57:45.242Z'
+dateModified: '2016-04-10T21:50:46.757Z'
 title: Wife’s Prayer
 author: []
 sourcePath: _posts/2016-04-10-wifes-prayer.md
@@ -26,3 +26,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec3ad060-2cd9-4529-99fd-141ce24b8f5b.jpg)
 
 Lord Jesus my Christ, grant me the grace of humble obedience to you and my Beloved, that I may love and serve my Groom as Holy Mary loves and serves as handmaid of the Lord. Amen
+
+[Husband's prayer][0]
+
+[Humble obedience to God][1]
+
+[0]: http://ourholyconception.org/husbands-prayer/
+[1]: http://ourholyconception.org/fight-burden-with-humble-obedience/
