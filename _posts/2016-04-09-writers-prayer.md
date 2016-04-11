@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord, give me a pencil and paper that I may point to your infinite wonder with flawed words, weep at this pilgrims’ journey of sorrows and harken to hope that you both travel these travails beside us and await us with open arms over the horizon! Amen.'
-datePublished: '2016-04-11T00:27:19.735Z'
-dateModified: '2016-04-11T00:27:08.141Z'
+datePublished: '2016-04-11T00:27:55.324Z'
+dateModified: '2016-04-11T00:27:29.374Z'
 title: Writer’s Prayer
 author: []
 authors: []
