@@ -4,8 +4,15 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 00:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 19:07:28 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discipline]]></title>
+            <description><![CDATA[<article><h1>Discipline</h1><p>Discipline frees us so we have more time and energy to not only do what we’re avoiding, but so much more besides. Discipline requires humility and humility leads to discipline. If discipline causes burden, we’re doing it wrong.</p></article>]]></description>
+            <link>http://ourholyconception.org/discipline/index.html</link>
+            <guid isPermaLink="false">85928d22-b3a5-495d-ae7c-fc0848e5d80f</guid>
+            <pubDate>Mon, 18 Apr 2016 19:06:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Writer’s Prayer]]></title>
             <description><![CDATA[<article><h1>Writer’s Prayer</h1><p>Lord, give me a pencil and paper that I may joyously point to your infinite wonder with flawed words, weep at this pilgrims’ journey of sorrows, and harken to hope that you travel these travails and triumphs beside us and await us with open arms over the horizon! Amen.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.diocs.org/Year-Of-Mercy/Stories-of-Mercy/ArticleID/3/Wages-of-Control</link>
             <guid isPermaLink="false">87129dc5-9486-4419-89ed-0c90b91e566a</guid>
             <pubDate>Sun, 10 Apr 2016 01:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Off]]></title>
-            <description><![CDATA[<article><h1>The Power of Off</h1><p>Eliminate Clutter from your thought. Turn off the computer. Stow the phone. Instead, write with pencil and paper. Write one page a day for one week. More, if the unthinkable happens and additional thoughts pour out.</p></article>]]></description>
-            <link>http://ourholyconception.org/the-power-of-off/index.html</link>
-            <guid isPermaLink="false">b656127f-0b72-41d9-b4c8-4a5eb1b2ea24</guid>
-            <pubDate>Mon, 28 Mar 2016 22:49:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
