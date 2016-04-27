@@ -1,30 +1,30 @@
 ---
-description: 'Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-04-22T22:01:33.169Z'
+inFeed: true
+hasPage: true
 inNav: false
 inLanguage: null
+keywords: []
+description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
+datePublished: '2016-04-27T17:02:21.940Z'
+dateModified: '2016-04-27T17:02:07.458Z'
 author: []
-hasPage: true
+title: Trinity Sword Prayer
+sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
+published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-title: Trinity Sword Prayer
-keywords: []
-dateModified: '2016-04-22T22:00:50.537Z'
-inFeed: true
+  favicon: null
 starred: false
-sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
-published: true
 url: trinity-sword-prayer/index.html
 _type: Article
 
 ---
 # Trinity Sword Prayer
 
-Upon the first whiff of sin immediately draw the sword and pray:
+Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:
 
 ## Father,
 
@@ -36,6 +36,6 @@ grant me the humility to accept your gift of the grace of \_\_\_\_\_ _, _which a
 
 ## Holy Spirit,
 
-guide me to see and then immediately take, right after this prayer, the one next step to breathe my Breath of God into the world. Specifically, my next step is to \_\_\_\_\_. Give me the fortitude to go and do it now.
+guide me to see and then immediately take the one next step to breathe my Breath of God into the world. Specifically, my next step is to \_\_\_\_\_. Give me the fortitude to do it now.
 
 -Amen!
