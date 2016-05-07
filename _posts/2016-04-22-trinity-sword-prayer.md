@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-07T15:25:38.365Z'
-dateModified: '2016-05-07T15:25:35.822Z'
+datePublished: '2016-05-07T16:00:51.281Z'
+dateModified: '2016-05-07T15:25:46.462Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
