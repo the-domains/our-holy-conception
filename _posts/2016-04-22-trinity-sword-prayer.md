@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-07T15:07:01.559Z'
-dateModified: '2016-05-07T15:06:18.114Z'
+datePublished: '2016-05-07T15:11:43.551Z'
+dateModified: '2016-05-07T15:09:28.226Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
@@ -45,7 +45,7 @@ In the name of the Father, of the Son, and of the Holy Spirit, amen!
 
 "If you remain in me and my words remain in you, ask for whatever you want and it will be done for you." (John 15:7).
 
-Asking for the weapons of the Salvation Arts always remains in God, making His words remain in us. The prayer to the Father asks for the Salvation Art of Mindfulness to see how ridiculous sin is. The prayer to Jesus asks for one of the virtues, another Salvation Art. And the final prayer to the Holy Spirit asks for the gifts needed to breath our inner breath of God into the world.
+Asking for the weapons of the [Salvation Arts][0] always remains in God, making His words remain in us. The prayer to the Father asks for the Salvation Art of Mindfulness to see how ridiculous sin is. The prayer to Jesus asks for one of the virtues, another Salvation Art. And the final prayer to the Holy Spirit asks for the gifts needed to breath our inner breath of God into the world.
 
 ## The Father's Gift
 
@@ -61,8 +61,10 @@ If you pray to the Father and do not immediately experience the gift of wild, ju
 
 ## Jesus' Gift
 
-The prayer to Jesus comes with the gift of courageousness. Being emboldened. Again, if we do not immediately feel emboldened on praying it, we are allowing our Sinner to hide in how we are praying, preventing us from being able to accept the gift Jesus freely offers us. One way this happens is in our asking for something that isn't a grace. If it isn't one of the seven heavenly, life giving virtues, it may not be a grace. As long as what you ask Jesus for is a grace, it will be given and you will feel emboldened.
+**Courage.** Being emboldened. Again, if we do not immediately feel emboldened on praying it, we are allowing our Sinner to hide in how we are praying, preventing us from being able to accept the gift Jesus freely offers us. One way this happens is in our asking for something that isn't a grace. If it isn't one of the seven heavenly, life giving virtues, it may not be a grace. As long as what you ask Jesus for is a grace, it will be given and you will feel emboldened.
 
 ## The Holy Spirit's Gift
 
-The Holy Spirit gives us the gift of action. If you don't immediately find yourself with your first two gifts (wild abandon and and courageous) doing the next step to breathe your Breath of God into the world, free of the burden of temptation, you prayed it wrong. Take some time to get to know your Breath of God. Understand that it is through everyday ordinary tasks that miraculous things happen to transform the world, to help build God's kingdom here and now. Make your next step simple and specific and something you can do right now. Open the gift of the Holy Spirit by going and doing it, right now!
+**Action.** If you don't immediately find yourself with your first two gifts (wild abandon and and courageous) doing the next step to breathe your Breath of God into the world, free of the burden of temptation, you prayed it wrong. Take some time to get to know your Breath of God. Understand that it is through everyday ordinary tasks that miraculous things happen to transform the world, to help build God's kingdom here and now. Make your next step simple and specific and something you can do right now. Open the gift of the Holy Spirit by going and doing it, right now!
+
+[0]: http://ourholyconception.org/budding-branches/
