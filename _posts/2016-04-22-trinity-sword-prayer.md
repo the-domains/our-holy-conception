@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-07T16:56:45.415Z'
-dateModified: '2016-05-07T16:56:37.368Z'
+datePublished: '2016-05-10T14:38:14.445Z'
+dateModified: '2016-05-10T14:37:46.651Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
@@ -66,5 +66,13 @@ If you pray to the Father and do not immediately experience the gift of wild, ju
 ## The Holy Spirit's Gift
 
 **Action.** If you don't immediately find yourself with your first two gifts (wild abandon and and courageous) doing the next step to breathe your Breath of God into the world, free of the burden of temptation, you prayed it wrong. Take some time to get to know your Breath of God. Understand that it is through everyday ordinary tasks that miraculous things happen to transform the world, to help build God's kingdom here and now. Make your next step simple and specific and something you can do right now. Open the gift of the Holy Spirit by going and doing it, right now!
+
+## Pray without Ceasing
+
+Saint Paul extolls us to "pray without ceasing." A powerful way to do this is to realize all activities worth doing ought to be prayer. Promote that way of seeing the world by praying the Trinity Sword Prayer, changing the prayer to the Father to:
+
+"Father, thank you for your wild abundance in the beauty of today. Help me build your kingdom!" Then continue with the prayer to Jesus and the prayer to the Holy Spirit.
+
+Suddenly, your value, meaning, purpose as a gift of wild abundance from God is clear, as is the single thing you need to do next to breathe God's breath into the world! Go get 'um!
 
 [0]: http://ourholyconception.org/budding-branches/
