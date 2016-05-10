@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Strife happens in marriage for one reason: sin. Sin happens for one reason: fear that the serpent was right.'
-datePublished: '2016-05-10T19:33:01.422Z'
-dateModified: '2016-05-10T19:32:25.341Z'
+datePublished: '2016-05-10T19:34:11.605Z'
+dateModified: '2016-05-10T19:33:05.488Z'
 title: 'Save Your Marriage!'
 author: []
 authors: []
