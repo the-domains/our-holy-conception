@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'We have one job at every given moment: Love Jesus our Christ with the same wild abandon He loves us. #Simple #Catholic #love— Deacon Patrick (@DcnPatrick) May 11, 2016'
-datePublished: '2016-05-11T17:27:54.673Z'
-dateModified: '2016-05-11T17:27:31.021Z'
+description: 'We have one job at every given moment: Love Jesus our Christ with the same wild abandon He loves us. #Simple#Catholic#love— Deacon Patrick (@DcnPatrick) May 11, 2016'
+datePublished: '2016-05-11T17:45:50.499Z'
+dateModified: '2016-05-11T17:45:42.466Z'
+title: Our One Job
+author: []
+sourcePath: _posts/2016-05-11-our-one-job.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Our One Job
-author: []
 starred: false
-sourcePath: _posts/2016-05-11-our-one-job.md
 url: our-one-job/index.html
 _type: Article
 
