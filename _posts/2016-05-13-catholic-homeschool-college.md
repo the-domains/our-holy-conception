@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "When we first began homeschooling, the idea of homeschool high school was daunting and we dismissed it. But after homeschooling over the years, we've discovered the wonders and gifts of homeschooling and realized the arguments against homeschool high school were just as erroneous as the arguments against homeschool for any age."
-datePublished: '2016-05-13T22:28:21.076Z'
-dateModified: '2016-05-13T22:21:55.947Z'
+datePublished: '2016-05-13T22:33:15.044Z'
+dateModified: '2016-05-13T22:30:05.245Z'
 title: Catholic Homeschool College
 author: []
 sourcePath: _posts/2016-05-13-catholic-homeschool-college.md
@@ -69,7 +69,7 @@ There will be an application process to be selected to join the cohort. This pro
 
 ## Questions?
 
-[Email me (Deacon Patrick)][1] to express your interest.
+[Email me (Deacon Patrick)][1].
 
 ## Pass it on!
 
