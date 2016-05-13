@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "When we first began homeschooling, the idea of homeschool high school was daunting and we dismissed it. But after homeschooling over the years, we've discovered the wonders and gifts of homeschooling and realized the arguments against homeschool high school were just as erroneous as the arguments against homeschool for any age."
-datePublished: '2016-05-13T22:17:10.150Z'
-dateModified: '2016-05-13T22:17:00.300Z'
+datePublished: '2016-05-13T22:19:18.804Z'
+dateModified: '2016-05-13T22:19:03.391Z'
 title: Catholic Homeschool College
 author: []
+sourcePath: _posts/2016-05-13-catholic-homeschool-college.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-catholic-homeschool-college.md
 url: catholic-homeschool-college/index.html
 _type: Article
 
@@ -77,7 +77,7 @@ Help spread the word! Share on Twitter, Facebook, your homeschool group email li
 
 ## Copy and paste: 
 
-Seeking quality, affordable, Catholic, classic liberal arts college education? Homeschool enters higher education! SHORTLINK \#homeschool \#education \#college
+Seeking quality, affordable, Catholic, classic liberal arts college education? Homeschool enters higher education! http://goo.gl/nAZxf2 \#homeschool \#education \#college
 
 [0]: http://eepurl.com/b1KmcP
 [1]: mailto:lamontglen@mac.com
