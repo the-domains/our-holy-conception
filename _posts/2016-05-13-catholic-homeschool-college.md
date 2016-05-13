@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "When we first began homeschooling, the idea of homeschool high school was daunting and we dismissed it. But after homeschooling over the years, we've discovered the wonders and gifts of homeschooling and realized the arguments against homeschool high school were just as erroneous as the arguments against homeschool for any age."
-datePublished: '2016-05-13T22:16:56.867Z'
-dateModified: '2016-05-13T22:16:42.011Z'
+datePublished: '2016-05-13T22:17:10.150Z'
+dateModified: '2016-05-13T22:17:00.300Z'
 title: Catholic Homeschool College
 author: []
 authors: []
