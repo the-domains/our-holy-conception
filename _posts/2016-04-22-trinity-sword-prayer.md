@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-13T15:43:44.725Z'
-dateModified: '2016-05-10T16:28:26.233Z'
+datePublished: '2016-05-13T15:48:50.880Z'
+dateModified: '2016-05-13T15:43:45.938Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
@@ -74,5 +74,9 @@ Saint Paul extolls us to "pray without ceasing." A powerful way to do this is to
 "Father, thank you for your wild abundance in the beauty of today. Help me build your kingdom!" Then continue with the prayer to Jesus and the prayer to the Holy Spirit.
 
 Suddenly, your value, meaning, purpose as a gift of wild abundance from God is clear, as is the single thing you need to do next to breathe God's breath into the world! Go get 'um!
+
+## As seen in Scripture!
+
+Is there reference to any of the Trinity Sword Prayer in scripture? Yes! It appears in the Gospels is concept, John 21:15--19\. Peter, called Simon again in these versus by Jesus to point out how his sin (how ridiculous he has been), has fallen for the sin of cowardice in the face of his fear during Jesus' trial --- denying Jesus three times. Jesus asks Peter if he loves Him three times --- to directly counter and overcome the bigger Sinner Simon Peter has because of his sin. Each time, Jesus then tells him the next concrete action he is to take: "Feed my lambs ... Tend my sheep ... Feed my sheep" --- aka: be Pope and take care of my Body, the Church! What other scriptures reveal this pattern of seeing how ridiculous sin is, asking for grace, and concretely moving forward?
 
 [0]: http://ourholyconception.org/budding-branches/
