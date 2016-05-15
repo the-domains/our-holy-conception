@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Without classical education there is no context. No context -> no perspective -> no grasp of right from wrong. #Catholic #homeschool— Deacon Patrick (@DcnPatrick) May 15, 2016'
-datePublished: '2016-05-15T23:48:12.280Z'
-dateModified: '2016-05-15T23:48:12.017Z'
+description: 'Without classical education there is no context. No context -> no perspective -> no grasp of right from wrong. #Catholic#homeschool— Deacon Patrick (@DcnPatrick) May 15, 2016'
+datePublished: '2016-05-15T23:49:07.857Z'
+dateModified: '2016-05-15T23:48:47.161Z'
 title: ''
+author: []
+sourcePath: _posts/2016-05-15-classical-education.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
-sourcePath: _posts/2016-05-15-classical-education.md
 url: classical-education/index.html
 _type: Article
 
