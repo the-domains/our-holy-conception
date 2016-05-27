@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://twitter.com/DcnPatrick/status/736200739383431168'
-datePublished: '2016-05-27T14:38:03.305Z'
-dateModified: '2016-05-27T14:37:44.211Z'
+datePublished: '2016-05-27T14:38:17.306Z'
+dateModified: '2016-05-27T14:38:09.860Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-27-faith-bears-fruit-in-all-seasons.md
