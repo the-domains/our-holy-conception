@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-31T15:26:53.725Z'
-dateModified: '2016-05-31T15:26:35.479Z'
+datePublished: '2016-05-31T15:33:34.428Z'
+dateModified: '2016-05-31T15:32:41.558Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
@@ -79,7 +79,9 @@ Ask and it shall be given you: multiple places in the Gospels Jesus says if we a
 
 ## It really is "Digital"!
 
-One question I've received about this prayer is what about (soon to be) Saint Mother Teresa's years of despair? Surely there must be more nuance here to the "pray right and these gifts will be given"?  If a Saint, like Mother Teresa or Padre Pio experiences despair, surely they know how to pray right?
+Either our faith is "on" or it isn't (just like the zeros and ones in the digital world). 
+
+One question I've received about this prayer is what about (soon to be) Saint Mother Teresa's years of despair? Surely there must be more nuance here to the "pray right and these gifts will be given"? If a Saint, like Mother Teresa or Padre Pio experiences despair, surely they know how to pray right?
 
 First, Saint Ignatius in his two "Discernment of Spirits" appendicies to his 30 Day Retreat, reveals there are three causes of despare (desolation), all of which have some form of sin at their root. Somehow, some way, if we are in despair, there is someplace in our soul we don't yet trust God with wild abandon. This is true for all of us, Saints included.
 
