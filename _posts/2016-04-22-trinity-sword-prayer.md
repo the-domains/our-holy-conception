@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Never entertain sin or thoughts of sin! Upon the first whiff of sin immediately draw the sword and pray:'
-datePublished: '2016-05-13T15:48:50.880Z'
-dateModified: '2016-05-13T15:43:45.938Z'
+datePublished: '2016-05-31T15:26:53.725Z'
+dateModified: '2016-05-31T15:26:35.479Z'
 author: []
 title: Trinity Sword Prayer
 sourcePath: _posts/2016-04-22-trinity-sword-prayer.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: trinity-sword-prayer/index.html
 _type: Article
@@ -78,5 +74,17 @@ Suddenly, your value, meaning, purpose as a gift of wild abundance from God is c
 ## As seen in Scripture!
 
 Is there reference to any of the Trinity Sword Prayer in scripture? Yes! It appears in the Gospels is concept, John 21:15--19\. Peter, called Simon again in these versus by Jesus to point out how his sin (how ridiculous he has been), has fallen for the sin of cowardice in the face of his fear during Jesus' trial --- denying Jesus three times. Jesus asks Peter if he loves Him three times --- to directly counter and overcome the bigger Sinner Simon Peter has because of his sin. Each time, Jesus then tells him the next concrete action he is to take: "Feed my lambs ... Tend my sheep ... Feed my sheep" --- aka: be Pope and take care of my Body, the Church! What other scriptures reveal this pattern of seeing how ridiculous sin is, asking for grace, and concretely moving forward?
+
+Ask and it shall be given you: multiple places in the Gospels Jesus says if we ask for things in union with God they will be given. As referenced above, John 15:7 is one of these.
+
+## It really is "Digital"!
+
+One question I've received about this prayer is what about (soon to be) Saint Mother Teresa's years of despair? Surely there must be more nuance here to the "pray right and these gifts will be given"?  If a Saint, like Mother Teresa or Padre Pio experiences despair, surely they know how to pray right?
+
+First, Saint Ignatius in his two "Discernment of Spirits" appendicies to his 30 Day Retreat, reveals there are three causes of despare (desolation), all of which have some form of sin at their root. Somehow, some way, if we are in despair, there is someplace in our soul we don't yet trust God with wild abandon. This is true for all of us, Saints included.
+
+What is amazing about Saints who experience desolation in their prayer life is they understand it is part of their purgation, or purgatory, and challenging as it is, they embrace it, trusting God to heal them even as they anguish, and they continue to persist in their ministry despite it all. This is what Jesus calls us to do, because faith bears fruit in all seasons, including desolation. In the Gospel of Mark (11:11-26), Jesus curses the fig tree because it is not bearing fruit out of season. To the eyes of the world, this seem unjust. But this is Jesus, who defines justice. Through faith, we are called to bear fruit in all seasons, even the season of despair.
+
+One of the powerful gifts of the Trinity Sword Prayer is that praying it "wrong" is an invitation to examination of consciences, as well as a guide map to discovering where we are deaf, blind, dumb, and stupid -- where and how our inner Sinner is hiding. The more we discover this, the more we are able to open ourselves up to Christ's light, which always abolishes the Sinner, and receive the abundant gifts God has already given but we have yet to unwrap! Even in our despair, God is a God of wild abundance! 
 
 [0]: http://ourholyconception.org/budding-branches/
