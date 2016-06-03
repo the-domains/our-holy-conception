@@ -1,20 +1,4 @@
-name: Our Holy Conception
-favicon: null
-layout_spectrum: 0.49997
 typography_spectrum: 0.19107
-title: Our Holy Conception
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-3182397-9
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#5dbde7'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49997
+analytics:
+  google: UA-3182397-9
+  facebook: null
+  twitter: null
+name: Our Holy Conception
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2416bd62-4395-414c-be86-478e77a48faf.jpg'
+title: Our Holy Conception
 purpose: []
