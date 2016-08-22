@@ -1,4 +1,3 @@
-layout_spectrum: 0.25151837477460504
 typography_spectrum: 0.47437606868334115
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.25151837477460504
 analytics:
   google: UA-3182397-9
   facebook: null
@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: 88036f4f-b0dc-4792-b835-74637294d6af
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2416bd62-4395-414c-be86-478e77a48faf.jpg
 title: Our Holy Conception
