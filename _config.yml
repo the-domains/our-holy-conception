@@ -19,6 +19,12 @@ analytics:
   google: UA-3182397-9
   facebook: null
   twitter: null
+author:
+  name: Deacon Patrick Jones
+  email: lamontglen@mac.com
+  url: www.OurHolyConception.org
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7775179-99ae-488c-8500-1f91f4020880.png
 name: Our Holy Conception
 cta:
   domain: null
@@ -26,6 +32,6 @@ cta:
   version: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2416bd62-4395-414c-be86-478e77a48faf.jpg
-title: Our Holy Conception
+title: Marriage as your path to holiness
 description: Marriage as your path to holiness
 purpose: []
