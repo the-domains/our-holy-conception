@@ -34,9 +34,6 @@ navigation:
   - name: About
     id: 88036f4f-b0dc-4792-b835-74637294d6af
     type: content
-  - name: Give
-    id: 731d6168-a625-4f42-8b6b-1ea047d5515c
-    type: content
   - name: Trinity Sword Prayer
     id: 85ab686a-09b8-48a6-b582-ba3bc8103b25
     type: content
@@ -48,6 +45,9 @@ navigation:
     type: content
   - name: Books
     id: fa8abfeb-a03e-4bb6-aac7-44e9fe428931
+    type: content
+  - name: Give
+    id: 731d6168-a625-4f42-8b6b-1ea047d5515c
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2416bd62-4395-414c-be86-478e77a48faf.jpg
