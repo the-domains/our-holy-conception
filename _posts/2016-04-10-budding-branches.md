@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-10T14:43:40.811Z'
-dateModified: '2016-04-10T14:43:20.182Z'
+description: >-
+  Family life is called to be holy life. Married, husband and wife answer the
+  call to holiness differently than priests and religious. While there is well
+  over 2,000 years of wisdom and teaching the path to holiness for priests and
+  religious, very little exists for married folks.
+datePublished: '2016-08-22T23:28:55.686Z'
+dateModified: '2016-08-22T23:28:55.217Z'
 title: Budding Branches
 author: []
 sourcePath: _posts/2016-04-10-budding-branches.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: budding-branches/index.html
 _type: WebPage
 
