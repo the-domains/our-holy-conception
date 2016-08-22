@@ -46,6 +46,9 @@ navigation:
   - name: Budding Branches
     id: b7c8afb2-4c78-49ba-908b-aaff8c0b6c8c
     type: content
+  - name: Books
+    id: fa8abfeb-a03e-4bb6-aac7-44e9fe428931
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2416bd62-4395-414c-be86-478e77a48faf.jpg
 title: Our Holy Conception
