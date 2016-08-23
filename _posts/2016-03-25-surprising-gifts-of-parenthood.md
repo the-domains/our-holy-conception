@@ -1,28 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'null'
-datePublished: '2016-03-25T16:15:21.430Z'
-dateModified: '2016-03-25T16:15:06.944Z'
-title: Surprising Gifts of Parenthood
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T00:57:21.282Z'
 sourcePath: _posts/2016-03-25-surprising-gifts-of-parenthood.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:57:20.983Z'
+title: Surprising Gifts of Parenthood
+publisher: {}
+description: '- J.R.R. Tolkien via Gandalf, The Two Towers, Lord of the Rings.'
+inLanguage: null
+inNav: false
+starred: false
 url: surprising-gifts-of-parenthood/index.html
 _type: Article
 
 ---
-> "All Wizards should have a hobbit or two in their care --- to teach them the meaning of the word, and to correct them."
+# Surprising Gifts of Parenthood
+
+> "All Wizards should have a hobbit or two in their care --- to teach them the meaning of the word, and to correct them."
 
 - J.R.R. Tolkien via Gandalf, The Two Towers, Lord of the Rings.
 
