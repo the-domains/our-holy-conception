@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T01:16:35.945Z'
+datePublished: '2016-08-23T01:18:07.245Z'
 sourcePath: _posts/2016-03-26-when-is-six-greater-than-seven.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T01:16:35.625Z'
+dateModified: '2016-08-23T01:18:06.854Z'
 title: Keep Holy the Sabbath
 publisher: {}
 description: God can do more through us in six days than we can do alone in seven.
@@ -21,11 +21,11 @@ _type: Article
 ## Keep Holy the Sabbath
 
 God can do more through us in six days than we can do alone in seven.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4b64b8b3c27b7e4658dbcb9631ff24f794800e.jpg)
 
 The simple things are the most powerful and the most difficult. One powerful weapon in choosing Christ, choosing your marriage is the Sabbath. Keep holy the Sabbath.
 
 Giving God the first day of our week sanctifies (makes holy) the rest of our week, and multiplies our capacity to accomplish more with less and not feeling a burden.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4b64b8b3c27b7e4658dbcb9631ff24f794800e.jpg)
 
 How To Keep Holy the Sabbath
 
