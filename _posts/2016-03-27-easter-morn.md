@@ -1,28 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-27T12:32:31.933Z'
-dateModified: '2016-03-27T12:32:25.661Z'
-title: Easter Morn
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-author: []
+datePublished: '2016-08-23T00:55:11.424Z'
 sourcePath: _posts/2016-03-27-easter-morn.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-23T00:55:11.016Z'
+title: Easter Morn
+publisher: {}
+description: >-
+  The Dawn from on high breaks upon us! Alleluia! #Easter— Deacon Patrick
+  (@DcnPatrick) March 27, 2016
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: easter-morn/index.html
 _type: Article
 
 ---
-> The Dawn from on high breaks upon us! Alleluia! [\#Easter][0]--- Deacon Patrick (@DcnPatrick) [March 27, 2016][1]
+# Easter Morn
+
+> The Dawn from on high breaks upon us! Alleluia! [\#Easter][0]
+> 
+> --- Deacon Patrick (@DcnPatrick) [March 27, 2016][1]
 
 
 
