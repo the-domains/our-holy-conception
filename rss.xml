@@ -4,8 +4,15 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 00:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 00:57:22 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Surprising Gifts of Parenthood]]></title>
+            <description><![CDATA[<article><h1>Surprising Gifts of Parenthood</h1><p>- J.R.R. Tolkien via Gandalf, The Two Towers, Lord of the Rings.</p></article>]]></description>
+            <link>http://ourholyconception.org/surprising-gifts-of-parenthood/index.html</link>
+            <guid isPermaLink="false">3e20f114-9052-417b-8be9-c8be17901e5e</guid>
+            <pubDate>Tue, 23 Aug 2016 00:57:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Holy Saturday]]></title>
             <description><![CDATA[<article><h1>Holy Saturday</h1><p>The trouble with simple: standing naked before Love and Truth. The tomb is sparse. Just me and Jesus my Christ, awaiting Easter. #Triduum— Deacon Patrick (@DcnPatrick) March 26, 2016</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://ourholyconception.org/83116b8c-9aed-4755-9a3b-e1cf01c71330/index.html</link>
             <guid isPermaLink="false">83116b8c-9aed-4755-9a3b-e1cf01c71330</guid>
             <pubDate>Mon, 22 Aug 2016 23:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective Required]]></title>
-            <description><![CDATA[<article><h1>Perspective Required</h1><p>Without classical education there is no context. No context -> no perspective -> no grasp of right from wrong. #Catholic#homeschool— Deacon Patrick (@DcnPatrick) May 15, 2016</p></article>]]></description>
-            <link>http://ourholyconception.org/classical-education/index.html</link>
-            <guid isPermaLink="false">1dd0b2ba-51b6-4d08-9080-f7bb4c414ffe</guid>
-            <pubDate>Mon, 22 Aug 2016 23:21:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
