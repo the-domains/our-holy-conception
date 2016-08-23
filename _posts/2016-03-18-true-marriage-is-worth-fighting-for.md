@@ -1,28 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren’t aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage!'
-datePublished: '2016-04-10T23:19:19.782Z'
-dateModified: '2016-04-10T23:18:55.097Z'
-title: True Marriage is worth fighting for
-author: []
+datePublished: '2016-08-23T01:03:19.990Z'
 sourcePath: _posts/2016-03-18-true-marriage-is-worth-fighting-for.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-23T01:03:19.303Z'
+title: Struggling in Your Marriage?
+publisher: {}
+description: >-
+  Are you struggling in your marriage? Wondering how in the world one man and
+  one woman can be with each other for life? Perhaps you are struggling for the
+  simple reason that you aren’t aiming high enough. Do you hunger for something
+  greater in your marriage? Then strive to live up to your marriage! Prayer for
+  Humble obedience to God.
+inLanguage: null
+inNav: false
+starred: false
 url: true-marriage-is-worth-fighting-for/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b4c19b9af2bef156c8e1fa5defead62500e0e4.jpg)
+![Marriage is one woman and one man joined by God for life.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b4c19b9af2bef156c8e1fa5defead62500e0e4.jpg)
+
+# Struggling in Your Marriage?
 
 Are you struggling in your marriage? Wondering how in the world one man and one woman can be with each other for life? Perhaps you are struggling for the simple reason that you aren't aiming high enough. Do you hunger for something greater in your marriage? Then strive to live up to your marriage! [Prayer for Humble obedience to God.][0]
 
