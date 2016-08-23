@@ -1,32 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: God can do more through us in six days than we can do alone in seven.
-datePublished: '2016-03-28T22:47:03.300Z'
-dateModified: '2016-03-28T22:46:51.313Z'
-title: When is Six Greater Than Seven?
-author: []
+datePublished: '2016-08-23T01:16:35.945Z'
 sourcePath: _posts/2016-03-26-when-is-six-greater-than-seven.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T01:16:35.625Z'
+title: Keep Holy the Sabbath
+publisher: {}
+description: God can do more through us in six days than we can do alone in seven.
+inLanguage: null
+inNav: false
+starred: false
 url: when-is-six-greater-than-seven/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a777f00f-0f4b-4ea6-9cc9-a46f71597605.jpg)
-
 ## Keep Holy the Sabbath
 
 God can do more through us in six days than we can do alone in seven.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4b64b8b3c27b7e4658dbcb9631ff24f794800e.jpg)
 
 The simple things are the most powerful and the most difficult. One powerful weapon in choosing Christ, choosing your marriage is the Sabbath. Keep holy the Sabbath.
 
