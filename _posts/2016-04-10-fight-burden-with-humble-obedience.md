@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
-datePublished: '2016-04-10T21:28:08.371Z'
-dateModified: '2016-04-10T21:12:19.264Z'
-title: Fight Burden with Humble Obedience
-author: []
+datePublished: '2016-08-23T01:09:34.564Z'
 sourcePath: _posts/2016-04-10-fight-burden-with-humble-obedience.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T01:09:33.735Z'
+title: Fight Burden with Humble Obedience
+publisher: {}
+description: 'Lord, where I am burdened grant me humble obedience to you! Amen!'
+inLanguage: null
+inNav: false
+starred: false
 url: fight-burden-with-humble-obedience/index.html
 _type: Article
 
