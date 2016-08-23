@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:20:53.637Z'
+datePublished: '2016-08-23T01:06:08.152Z'
 sourcePath: >-
   _posts/2016-05-26-every-choice-we-make-is-either-for-satan-or-for-christ-unti.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T23:20:53.337Z'
+dateModified: '2016-08-23T01:06:07.856Z'
 title: Going Up or Down?
 publisher: {}
 description: >-
