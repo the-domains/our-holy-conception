@@ -4,8 +4,15 @@
         <description><![CDATA[Our Holy Conception]]></description>
         <link>http://ourholyconception.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 01:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 01:16:37 GMT</lastBuildDate>
         <atom:link href="http://ourholyconception.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keep Holy the Sabbath]]></title>
+            <description><![CDATA[<article><h1>Keep Holy the Sabbath</h1><p>God can do more through us in six days than we can do alone in seven.</p></article>]]></description>
+            <link>http://ourholyconception.org/when-is-six-greater-than-seven/index.html</link>
+            <guid isPermaLink="false">cbf36f0b-516a-42ff-bf05-dad13a59360d</guid>
+            <pubDate>Tue, 23 Aug 2016 01:16:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Break Bread Together Twice Daily]]></title>
             <description><![CDATA[<article><h1>Break Bread Together Twice Daily</h1><h2>Feed Body, Feed Soul, Feed Family, Feed Love</h2><p>We never get up from a meal the same person who sat down. How much more is this true when we not only eat food, but converse with loved ones, share our day. Break bread together. Twice. Daily.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://ourholyconception.org/true-marriage-is-worth-fighting-for/index.html</link>
             <guid isPermaLink="false">88a39834-8377-4460-8a4c-6714ce6d5773</guid>
             <pubDate>Tue, 23 Aug 2016 01:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Surprising Gifts of Parenthood]]></title>
-            <description><![CDATA[<article><h1>Surprising Gifts of Parenthood</h1><p>- J.R.R. Tolkien via Gandalf, The Two Towers, Lord of the Rings.</p></article>]]></description>
-            <link>http://ourholyconception.org/surprising-gifts-of-parenthood/index.html</link>
-            <guid isPermaLink="false">3e20f114-9052-417b-8be9-c8be17901e5e</guid>
-            <pubDate>Tue, 23 Aug 2016 00:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
