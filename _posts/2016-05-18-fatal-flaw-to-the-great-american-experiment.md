@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-23T00:53:48.139Z'
+datePublished: '2016-08-23T01:06:30.814Z'
 sourcePath: _posts/2016-05-18-fatal-flaw-to-the-great-american-experiment.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-23T00:53:47.803Z'
+via: {}
+dateModified: '2016-08-23T01:06:30.491Z'
 title: Fatal Flaw to the Great American Experiment?
 publisher: {}
 description: >-
@@ -15,7 +16,6 @@ description: >-
   (@DcnPatrick) May 18, 2016
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: fatal-flaw-to-the-great-american-experiment/index.html
 _type: Article
