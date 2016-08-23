@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:19:27.221Z'
+datePublished: '2016-08-23T01:05:59.132Z'
 sourcePath: _posts/2016-05-27-faith-bears-fruit-in-all-seasons.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T23:19:26.900Z'
+dateModified: '2016-08-23T01:05:58.836Z'
 title: No Excuse!
 publisher: {}
 description: >-
