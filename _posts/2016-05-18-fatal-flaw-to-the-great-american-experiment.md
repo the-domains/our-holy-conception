@@ -1,25 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Fatal flaw to great American experiment? Those in power ought not have power to educate those who put them in power. #homeschool #catholic— Deacon Patrick (@DcnPatrick) May 18, 2016'
-datePublished: '2016-05-18T23:13:34.004Z'
-dateModified: '2016-05-18T22:59:24.302Z'
-authors: []
-publisher: null
-title: Fatal Flaw to the Great American Experiment?
-author: []
-starred: false
+datePublished: '2016-08-23T00:53:48.139Z'
 sourcePath: _posts/2016-05-18-fatal-flaw-to-the-great-american-experiment.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-23T00:53:47.803Z'
+title: Fatal Flaw to the Great American Experiment?
+publisher: {}
+description: >-
+  Fatal flaw to great American experiment? Those in power ought not have power
+  to educate those who put them in power. #homeschool#catholic— Deacon Patrick
+  (@DcnPatrick) May 18, 2016
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: fatal-flaw-to-the-great-american-experiment/index.html
 _type: Article
 
 ---
 # Fatal Flaw to the Great American Experiment?
 
-> Fatal flaw to great American experiment? Those in power ought not have power to educate those who put them in power. [\#homeschool][0][\#catholic][1]--- Deacon Patrick (@DcnPatrick) [May 18, 2016][2]
+> Fatal flaw to great American experiment? Those in power ought not have power to educate those who put them in power. [\#homeschool][0][\#catholic][1]
+> 
+> --- Deacon Patrick (@DcnPatrick) [May 18, 2016][2]
 
 
 
