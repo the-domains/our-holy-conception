@@ -1,41 +1,43 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-26T14:58:35.425Z'
-dateModified: '2016-03-26T14:58:34.982Z'
-title: The Simple Rosary
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T01:17:09.514Z'
 sourcePath: _posts/2016-03-26-the-simple-rosary.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T01:17:08.734Z'
+title: The Simple Rosary
+publisher: {}
+description: >-
+  If the litany of prayers, their order and beads and how many prayers are on
+  one bead baffles you, as it does me, prune your rosary prayers that they may
+  grow stronger and bear fruit. Yes, simplifying the rosary can be justified
+  with scripture, as well as logic and reason. The best rosary is the rosary we
+  pray.
+inLanguage: null
+inNav: false
+starred: false
 url: the-simple-rosary/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4164f96f-ad69-42fd-9c0b-1b81d8516ac1.jpg)
+# The Simple Rosary
 
 ## The best rosary is the rosary we pray.
 
 If the litany of prayers, their order and beads and how many prayers are on one bead baffles you, as it does me, prune your rosary prayers that they may grow stronger and bear fruit. Yes, simplifying the rosary can be justified with scripture, as well as logic and reason. The best rosary is the rosary we pray.
 
-## Simple Rosary Rules
-
 * One bead, one prayer.
-* Three prayers to know. Glory be, Our Father, and Hail Mary. 
+* Three prayers to know. Glory be, Our Father, and Hail Mary.
 * If it's a crucifix, pray the Glory be.
 * If it's a single bead, pray the Our Father. If it's in the circle, announce the next mystery.
 * If it's next to other beads, pray the Holy Mary.
 * Allow the life of Jesus our Christ to open through the beads.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/827d5bb04bbb41625f630686ebc9ca282e4da925.jpg)
+
+## Simple Rosary Rules
 
 ## Glory Be
 
