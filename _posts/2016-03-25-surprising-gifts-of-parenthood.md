@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T00:57:21.282Z'
+datePublished: '2016-08-23T01:17:37.893Z'
 sourcePath: _posts/2016-03-25-surprising-gifts-of-parenthood.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T00:57:20.983Z'
+dateModified: '2016-08-23T01:17:37.440Z'
 title: Surprising Gifts of Parenthood
 publisher: {}
 description: '- J.R.R. Tolkien via Gandalf, The Two Towers, Lord of the Rings.'
