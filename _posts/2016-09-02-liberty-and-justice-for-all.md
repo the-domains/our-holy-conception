@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T14:56:30.958Z'
+datePublished: '2016-09-02T14:58:52.754Z'
 sourcePath: _posts/2016-09-02-liberty-and-justice-for-all.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T14:55:37.381Z'
+dateModified: '2016-09-02T14:58:34.006Z'
 title: Liberty and Justice for All
 publisher: {}
 description: >-
