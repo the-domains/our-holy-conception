@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T16:31:08.384Z'
+datePublished: '2016-09-02T17:43:27.613Z'
 sourcePath: _posts/2016-09-02-liberty-and-justice-for-all.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T16:31:07.948Z'
+dateModified: '2016-09-02T17:43:27.167Z'
 title: Liberty and Justice for All
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ url: liberty-and-justice-for-all/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db4daeae-579f-4acf-98c5-b7e954e07cf3.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/936c86f48ea6cf8b0d61ec8910e666f7/croprotate.png?cropheight=1089&cropwidth=1452&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffb9af7dd-b08b-4140-8fd1-496101d2b1d7.png&x=0&y=2)
 
 # Liberty and Justice for All
 
@@ -40,10 +40,10 @@ In this presidential election year, and with some stunning ballot initiatives on
 
 ## Additional Resources on Catholic Social Teaching:
 
-The Compendium of the Social Doctrine of the Church via the Vatican:
+## The Compendium of the Social Doctrine of the Church via the Vatican:
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365934249ac7a18f08983dc6a79f74bc3edc3c71.jpg" /><h1>Compendium of the Social Doctrine of the Church</h1><p>COMPENDIUM OF THE SOCIAL DOCTRINEOF THE CHURCH TO HIS HOLINESS POPE JOHN PAUL II MASTER OF SOCIAL DOCTRINE AND EVANGELICAL WITNESS TO JUSTICE AND PEACE TABLE OF CONTENTS Abbreviations Biblical Abbreviations Letter of Cardinal Angelo Sodano Presentation AN INTEGRAL AND SOLIDARY HUMANISM a. At the dawn of the Third Millennium b.</p></article>
 
-An Academic Article by Deacons Patrick A. Jones and Robert L. Waller on the Model of Catholic Social Teaching:
+## An Academic Article by Deacons Patrick A. Jones and Robert L. Waller on the Model of Catholic Social Teaching:
 
 <iframe src="https://drive.google.com/viewerng/viewer?url=http%3A//catholicsocialscientists.org/cssr/Archival/2010/Jones%2520-%2520Public%2520and%2520Church%2520Affairs.pdf&amp;embedded=true" width="600" height="780" style=""></iframe>
