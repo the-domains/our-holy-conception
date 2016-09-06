@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T16:03:08.203Z'
+datePublished: '2016-09-02T16:15:21.051Z'
 sourcePath: _posts/2016-09-02-liberty-and-justice-for-all.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T16:03:07.501Z'
+dateModified: '2016-09-02T16:15:20.557Z'
 title: Liberty and Justice for All
 publisher: {}
 description: >-
@@ -38,7 +38,7 @@ In this presidential election year, and with some stunning ballot initiatives on
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F181132607&amp;url=https%3A%2F%2Fvimeo.com%2F181132607&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F589592735_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-## Additional Resources on Catholic Social Teaching
+## Additional Resources on Catholic Social Teaching:
 
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c32481069345c9ab15b9dad76a15ef50/noop.jpg?input=http%3A%2F%2Fwww.vatican.va%2Fimg%2Fpkeys.jpg" /><h1>Compendium of the Social Doctrine of the Church</h1><p>COMPENDIUM OF THE SOCIAL DOCTRINEOF THE CHURCH TO HIS HOLINESS POPE JOHN PAUL II MASTER OF SOCIAL DOCTRINE AND EVANGELICAL WITNESS TO JUSTICE AND PEACE TABLE OF CONTENTS Abbreviations Biblical Abbreviations Letter of Cardinal Angelo Sodano Presentation AN INTEGRAL AND SOLIDARY HUMANISM a. At the dawn of the Third Millennium b.</p></article>
 
