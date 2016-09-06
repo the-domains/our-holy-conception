@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-09-02T14:47:22.742Z'
+datePublished: '2016-09-02T14:52:28.909Z'
+sourcePath: _posts/2016-09-02-liberty-and-justice-for-all.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T14:46:39.290Z'
+dateModified: '2016-09-02T14:52:15.551Z'
 title: Liberty and Justice for All
 publisher: {}
 description: >-
@@ -11,8 +13,8 @@ description: >-
   tossed about in today’s society, but they mean something much more profound
   and challenging when we look at their deeper Catholic meaning.
 starred: false
-sourcePath: _posts/2016-09-02-liberty-and-justice-for-all.md
-_type: Blurb
+url: liberty-and-justice-for-all/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db4daeae-579f-4acf-98c5-b7e954e07cf3.jpg)
